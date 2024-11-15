@@ -116,13 +116,7 @@ The major parts in the project are First-Tire CNN, Challenging dataset creation,
 - C is for Color: The color is not uniform and can be various shades of brown or black and can even have pink, red white or blue in it. 
 - D is for Diameter: The diameter of the mole is greater than 6mm. 
 
-![alt text](https://github.com/charanya78/melanoma-detection/blob/main/diagrams/abcd.PNG)
 
-- Code - https://github.com/charanya78/melanoma-detection/blob/main/6.%20ABCD%20Extraction%20-%20Part%201.ipynb 
-- Code - https://github.com/charanya78/melanoma-detection/blob/main/7.%20ABCD%20Extraction%20-%20Part%202.ipynb
-- Generated intermediate outputs - https://github.com/charanya78/melanoma-detection/blob/main/threshold.jpg
-- Final output - https://github.com/charanya78/melanoma-detection/blob/main/Result.jpg
-- Dataset generated - https://github.com/charanya78/melanoma-detection/blob/main/cnn_abcd.xlsx
 
 #### FEATURE FUSION AND FINAL CLASSIFICATION 
 
